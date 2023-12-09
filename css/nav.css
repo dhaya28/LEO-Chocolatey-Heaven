@@ -1,0 +1,27 @@
+
+  .topnav {
+    overflow: hidden;
+    background-color: black;
+  }
+  .topnavi{
+    overflow: hidden;
+    background-color: transparent;
+  }
+
+  .topnav a,.topnavi a {
+    float: left;
+    color: rgb(170, 159, 10)    ;
+    text-align: center; 
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 23px;
+  }
+  
+  .topnav a:hover,.topnavi a:hover {
+    background-color: transparent;
+    color: brown;
+  }
+  .nav{
+    padding-top: 40px;
+  }
+  
